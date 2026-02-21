@@ -18,7 +18,6 @@ It mimics the layout and functionality of Spotify’s web player interface.
 - Responsive layout like Spotify web
 - Play/pause functionality for demo songs
 - Styled playlist section
-- Interactive search/filter (if implemented)
 - Smooth UI/UX experience
 
 ---
@@ -33,7 +32,6 @@ It mimics the layout and functionality of Spotify’s web player interface.
 
 ## Screenshots
 
-<!-- Add screenshots here -->
 ![Screenshot](./spotify.png)
 
 ---
