@@ -40,4 +40,4 @@ It mimics the layout and functionality of Spotify’s web player interface.
 
 1. Clone the repository:  
 ```bash
-git clone https://github.com/anshsingh1032/spotify-clone.git
+git clone https://github.com/anshsingh1032/spotify-clone-js.git
